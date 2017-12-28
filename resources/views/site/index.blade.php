@@ -33,7 +33,7 @@
         <div class="col-md-9 col-sm-12 text-left"><!-- left text -->
           <h3>Ligue agora e informe o código <span><strong class="is-primary-color">#elitesan-wd15</strong></span> e ganhe 15% de desconto!</h3>
           <p class="font-lato weight-300 size-20 nomargin-bottom">
-            Aproveite! Promoção por tempo limitado.
+            Aproveite! Promoção por tempo limitado - TESTE TESTE TESTE.
           </p>
         </div><!-- /left text -->
 
