@@ -102,7 +102,6 @@
               <ul class="list-unstyled list-icons">
                 <li class="margin-bottom-10"><i class="fa fa-dot-circle-o is-secondary-color"></i> <strong class="is-primary-color">Inspeção técnica:</strong> é realizada por especialista de forma detalhada para verificar as características de cada ambiente a ser tratado.</li>
                 <li class="margin-bottom-10"><i class="fa fa-dot-circle-o is-secondary-color"></i> <strong class="is-primary-color">Análise de métodos e produtos: </strong>após a coleta de dados da inspeção técnica será defido o método de aplicação e o produto que será utlizado na aplicação.</li>
-                <li><i class="fa fa-dot-circle-o is-secondary-color"></i> <strong class="is-primary-color">Aplicação: </strong>Utilizando equipamentos de ultima geração, o produto líquido é fracionado e nebulizado em micropartículas no ambiente - (Atomização U.B.V - Ultra Baixo Volume), formando uma névoa fina que se mantem em suspenção no ar,  aderindo às superfícies, eliminando e impedindo a proliferação dos micro-organismos por até seis meses. O Ambiente pode ser utilizado 2 horas após a aplicação.</li>
               </ul>
             </div>
           </div>
