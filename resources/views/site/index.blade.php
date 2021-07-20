@@ -289,7 +289,7 @@
               <i class="fa fa-magic is-primary-box-icon"></i>
               <h2 class="is-secondary-color">Película Protetora</h2>
             </div>
-            <p>Após a aplicação, os inimigos invisíveis são eliminados e forma-se uma película ativa protetora que ajuda na prevenção da proliferação destes microorganismos por até 6 meses.</p>
+            <p>Após a aplicação, os inimigos invisíveis são eliminados e forma-se uma película ativa protetora que ajuda na prevenção da proliferação destes microorganismos.</p>
           </div>
 
         </div>
