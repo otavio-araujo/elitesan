@@ -91,7 +91,6 @@
                 <li><i class="fa fa-check text-info"></i> Redução do risco de contaminação cruzada entre os clientes e colaboradores;</li>
                 <li><i class="fa fa-check text-info"></i> Diferencial competitivo para o shopping que coloca a saúde do cliente, usuários e colaboradores como uma preocupação essencial;</li>
                 <li><i class="fa fa-check text-info"></i> Equipamentos e utencílios limpos e livre de micro-organismos, como fungos e bactérias;</li>
-                <li><i class="fa fa-check text-info"></i> Película protetora que previne a proliferação futura de material biológico infectante;</li>
                 <li><i class="fa fa-check text-info"></i> Possibilidade de agendamento da sanitização de shoppings de acordo com os horários disponíveis do cliente;</li>
                 <li><i class="fa fa-check text-info"></i> Não deixa resíduos, não mancha e não deixa cheiro;</li>
                 <li><i class="fa fa-check text-info"></i> Aplicação relativamente rápida;</li>
