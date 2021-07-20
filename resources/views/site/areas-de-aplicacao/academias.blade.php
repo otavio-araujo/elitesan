@@ -96,7 +96,6 @@
                 <li><i class="fa fa-check text-info"></i> Diferencial competitivo para a academia que coloca a saúde de seus clientes como uma preocupação essencial;</li>
                 <li><i class="fa fa-check text-info"></i> Equipamentos e utencílios limpos e livre de micro-organismos, como fungos e bactérias;</li>
                 <li><i class="fa fa-check text-info"></i> Película protetora que previne a proliferação futura de material biológico infectante;</li>
-                <li><i class="fa fa-check text-info"></i> Até 6 meses de proteção contra fungos e bactérias, de acordo com as condições do ambiente;</li>
                 <li><i class="fa fa-check text-info"></i> Possibilidade de agendamento da sanitização de academias de acordo com os horários disponíveis do cliente;</li>
                 <li><i class="fa fa-check text-info"></i> Não deixa resíduos, não mancha e não deixa cheiro;</li>
                 <li><i class="fa fa-check text-info"></i> Aplicação relativamente rápida;</li>
