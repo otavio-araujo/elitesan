@@ -94,7 +94,6 @@
                 <li><i class="fa fa-check text-info"></i> Redução do risco de contaminação cruzada entre cargas;</li>
                 <li><i class="fa fa-check text-info"></i> Diferencial competitivo para a transportadora que coloca a saúde das mercadorias como uma preocupação essencial;</li>
                 <li><i class="fa fa-check text-info"></i> Veículos de transporte limpos e livre de micro-organismos, como fungos e bactérias;</li>
-                <li><i class="fa fa-check text-info"></i> Película protetora que previne a proliferação futura de material biológico infectante;</li>
                 <li><i class="fa fa-check text-info"></i> Possibilidade de agendamento da sanitização de transporte de cargas de acordo com os horários disponíveis do cliente;</li>
                 <li><i class="fa fa-check text-info"></i> Não deixa resíduos, não mancha e não deixa cheiro;</li>
                 <li><i class="fa fa-check text-info"></i> Aplicação relativamente rápida;</li>
