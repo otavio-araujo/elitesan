@@ -120,11 +120,6 @@
                 Após a análise e definição dos produtos e metodologias é feita a aplicação através de nebulização à frio
                 (também conhecida com atomização ultra-baixo-volume - U.B.V) em todo o ambiente - paredes, teto, chão e superfícies
               de móveis, objetos e utencílios.</p>
-              <p class="size-14">
-                Esse produto adere às superfícies disponíveis e cria uma espécie de película protetora que impede o desenvolvimento
-                destes microorganismos infecciosos no ambiente por até seis meses, podendo variar de acordo com o local e as
-                condições da cada ambiente.
-              </p>
               <p class="size-14 justify">
                 Em apenas duas horas, o local já está liberado para utilização novamente de forma Simples, Segura e Sem Riscos - 3S's.
               </p>
