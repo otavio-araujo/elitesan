@@ -90,7 +90,6 @@
                 <li><i class="fa fa-check text-info"></i> Produto inovador e ecologicamente correto, assegurando a qualidade de vida, preservando a saúde e o meio ambiente;</li>
                 <li><i class="fa fa-check text-info"></i> Equipamentos de tecnologia de ponta para correta aspersão do produto;</li>
                 <li><i class="fa fa-check text-info"></i> Ambiente limpo e livre de micro-organismos, como fungos e bactérias;</li>
-                <li><i class="fa fa-check text-info"></i> Película protetora que previne a proliferação futura de material biológico infectante;</li>
                 <li><i class="fa fa-check text-info"></i> Possibilidade de agendamento da sanitização de indústria de acordo com os horários disponíveis do cliente;</li>
                 <li><i class="fa fa-check text-info"></i> Não deixa resíduos, não mancha e não deixa cheiro;</li>
                 <li><i class="fa fa-check text-info"></i> Aplicação relativamente rápida;</li>
