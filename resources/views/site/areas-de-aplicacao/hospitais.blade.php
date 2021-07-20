@@ -96,7 +96,6 @@
                 <li><i class="fa fa-check text-info"></i> Diferencial competitivo para o hospital que coloca a saúde ambiental como uma preocupação essencial;</li>
                 <li><i class="fa fa-check text-info"></i> Equipamentos e utencílios limpos e livre de micro-organismos, como fungos e bactérias;</li>
                 <li><i class="fa fa-check text-info"></i> Película protetora que previne a proliferação futura de material biológico infectante;</li>
-                <li><i class="fa fa-check text-info"></i> Até 6 meses de proteção contra fungos e bactérias, de acordo com as condições do ambiente;</li>
                 <li><i class="fa fa-check text-info"></i> Possibilidade de agendamento da sanitização de hospitais de acordo com os horários disponíveis do cliente;</li>
                 <li><i class="fa fa-check text-info"></i> Não deixa resíduos, não mancha e não deixa cheiro;</li>
                 <li><i class="fa fa-check text-info"></i> Aplicação relativamente rápida;</li>
@@ -121,11 +120,6 @@
                 Após a análise e definição dos produtos e metodologias é feita a aplicação através de nebulização à frio
                 (também conhecida com atomização ultra-baixo-volume - U.B.V) em todo o ambiente - paredes, teto, chão e superfícies
               de móveis, objetos e utencílios.</p>
-              <p class="size-14">
-                Esse produto adere às superfícies disponíveis e cria uma espécie de película protetora que impede o desenvolvimento
-                destes microorganismos infecciosos no ambiente por até seis meses, podendo variar de acordo com o local e as
-                condições da cada ambiente.
-              </p>
               <p class="size-14 justify">
                 Em apenas duas horas, o local já está liberado para utilização novamente de forma Simples, Segura e Sem Riscos - 3S's.
               </p>
