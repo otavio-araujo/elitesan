@@ -93,7 +93,6 @@
                 <li><i class="fa fa-check text-info"></i> Aumento significativo na duração dos equipamentos;</li>
                 <li><i class="fa fa-check text-info"></i> Diferencial competitivo para a empresa que coloca a saúde de seus colaboradores e clientes como uma preocupação essencial;</li>
                 <li><i class="fa fa-check text-info"></i> Equipamentos e utencílios limpos e livre de micro-organismos, como fungos e bactérias;</li>
-                <li><i class="fa fa-check text-info"></i> Película protetora que previne a proliferação futura de material biológico infectante;</li>
                 <li><i class="fa fa-check text-info"></i> Possibilidade de agendamento da sanitização de empresas de acordo com os horários disponíveis do cliente;</li>
                 <li><i class="fa fa-check text-info"></i> Não deixa resíduos, não mancha e não deixa cheiro;</li>
                 <li><i class="fa fa-check text-info"></i> Aplicação relativamente rápida;</li>
