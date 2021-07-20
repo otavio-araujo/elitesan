@@ -102,7 +102,6 @@
                 <li><i class="fa fa-check text-info"></i> Diferencial competitivo para a unidade armazenadora que coloca a saúde das mercadorias como uma preocupação essencial;</li>
                 <li><i class="fa fa-check text-info"></i> Armazéns e depósitos limpos e livre de micro-organismos, como fungos e bactérias;</li>
                 <li><i class="fa fa-check text-info"></i> Película protetora que previne a proliferação futura de material biológico infectante;</li>
-                <li><i class="fa fa-check text-info"></i> Até 6 meses de proteção contra fungos e bactérias, de acordo com as condições do ambiente;</li>
                 <li><i class="fa fa-check text-info"></i> Possibilidade de agendamento da sanitização de armazéns e depósitos de acordo com os horários disponíveis do cliente;</li>
                 <li><i class="fa fa-check text-info"></i> Não deixa resíduos, não mancha e não deixa cheiro;</li>
                 <li><i class="fa fa-check text-info"></i> Aplicação relativamente rápida;</li>
