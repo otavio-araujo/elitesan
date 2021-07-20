@@ -286,20 +286,6 @@
           <div class="box-icon box-icon-center box-icon-transparent p-10 box-icon-large">
             <div class="box-icon-title">
               <i class="fa fa-magic is-primary-box-icon"></i>
-              <h2 class="is-secondary-color">Película Protetora</h2>
-            </div>
-            <p>Após a aplicação, os inimigos invisíveis são eliminados e forma-se uma película ativa protetora que ajuda na prevenção da proliferação destes microorganismos.</p>
-          </div>
-
-        </div>
-        <!-- /item -->
-
-        <!-- item -->
-        <div class="col-md-4">
-
-          <div class="box-icon box-icon-center box-icon-transparent p-10 box-icon-large">
-            <div class="box-icon-title">
-              <i class="fa fa-magic is-primary-box-icon"></i>
               <h2 class="is-secondary-color">Registros e Certificações</h2>
             </div>
             <p>Empresa certificada e registrada nos órgão competentes, dentre eles a ANVISA, IAP e IBAMA, utilizando apenas produtos registrados no Ministério da Saúde que possuem laudos de eficácia e toxidade aprovados.</p>
